@@ -1,0 +1,4 @@
+Proj1037.cpp: In function 'int main()':
+Proj1037.cpp:6:19: error: 'vec' was not declared in this scope
+  auto rev_begin = vec.rbegin()+3;
+                   ^
